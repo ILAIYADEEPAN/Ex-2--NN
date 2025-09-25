@@ -1,9 +1,9 @@
+IMPLEMENTATION OF PERCEPTRON FOR BINARY CLASSIFICATION
 <H3>Name : ILAIYADEEPAN K</H3>
 <H3>Register no: 212223230080</H3>
 <H3>Date : 11/09/2025</H3>
 <H3>Experiment No. 2 </H3>
 <H3>
-Implementation of Perceptron for Binary Classification
 <H3>
 AIM:<br><br>
 To implement a perceptron for classification using Python<BR></H3> 
